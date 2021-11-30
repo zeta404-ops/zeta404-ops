@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on Making a Gameproject
 - 💬 Ask me about ... Technology
 - 📫 How to reach me: [IG](https://www.instagram.com/zhinar_0/)
-- ⚡ Fun fact: The oldest “your mom” joke was discovered on a 3,500-year-old Babylonian tablet.
+- ⚡ Fun fact: The Firefox logo isn’t a fox… it’s a red panda!
