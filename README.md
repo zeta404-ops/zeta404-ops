@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeta404-ops&label=Profile%20views&color=0e75b6&style=flat" alt="zeta404-ops" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeta404-ops" alt="zeta404-ops" /></a> </p>
-
 - 🔭 I’m currently working on [Portfolio](https://github.com/zeta404-ops/portfolio)
 
 - 👯 I’m looking to collaborate on **Making a Gameproject**
