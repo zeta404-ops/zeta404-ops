@@ -30,8 +30,9 @@
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeta404-ops&show_icons=true&locale=en&layout=compact" alt="zeta404-ops" /></p>
 <br><br>
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeta404-ops&show_icons=true&locale=en" alt="zeta404-ops" /></p>
-<br><br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeta404-ops&" alt="zeta404-ops" /></p>
 <br><br>
